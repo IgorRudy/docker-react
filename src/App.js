@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          This text being changed all the time!
+          Ajo ajo!! Verzehl mir nichts! Ich waas wie der Hase laaft!
         </p>
         <a
           className="App-link"
